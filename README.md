@@ -48,5 +48,4 @@
 
 
 ![Architecture Diagram](https://i.ytimg.com/vi/NjkAMVFv8m8/maxresdefault.jpg)
-
-Note: I assumed the picture is an architecture diagram, so I added a caption to it. If you want to change the caption or remove it, just let me know!
+![Architecture Diagram2](https://media.licdn.com/dms/image/v2/D4E22AQHmKfoyBp4eGw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1703756802069?e=1735171200&v=beta&t=b4oG1xW0iKF9EFMEQBRImVp-Rbc0K8-nClBJgzCbprk) 
