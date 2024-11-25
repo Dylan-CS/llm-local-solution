@@ -26,4 +26,4 @@ Prometheus + Grafana
 ├─ 资源监控  
 └─ 异常告警  
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNjkAMVFv8m8&psig=AOvVaw32q2mD1HEhlZpfBo30DiSd&ust=1732613774883000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC3hLaX94kDFQAAAAAdAAAAABBO 
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNjkAMVFv8m8&psig=AOvVaw32q2mD1HEhlZpfBo30DiSd&ust=1732613774883000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC3hLaX94kDFQAAAAAdAAAAABBO ](https://i.ytimg.com/vi/NjkAMVFv8m8/maxresdefault.jpg)
